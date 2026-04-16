@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Ejercicio01.ejercicio01</StartupObject>
+    <StartupObject>Ejercicio01.ejer2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ejer1.cs" />
+    <Compile Include="ejer2.cs" />
+    <Compile Include="ejer3.cs" />
+    <Compile Include="ejer4.cs" />
+    <Compile Include="ejer5.cs" />
+    <Compile Include="ejer6.cs" />
     <Compile Include="ejercicio01.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

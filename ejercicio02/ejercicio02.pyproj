@@ -4,13 +4,15 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a3eacf7c-0e2c-4a7e-a4f7-a57e1382318e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ejercicio02.py</StartupFile>
+    <StartupFile>ejer1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>ejercicio02</Name>
     <RootNamespace>ejercicio02</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
+    <InterpreterId>Global|PythonCore|3.14</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +23,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ejercicio02.py" />
+    <Compile Include="ejer1.py" />
+    <Compile Include="ejer2.py" />
+    <Compile Include="ejer3.py" />
+    <Compile Include="ejer4.py" />
+    <Compile Include="ejer5.py" />
+    <Compile Include="ejer6.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|3.14" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

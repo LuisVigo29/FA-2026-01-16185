@@ -8,5 +8,12 @@ namespace Ejercicio01
 {
     internal class ejer2
     {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Ingrese nsu nombre");
+            string nom=Console.ReadLine();
+            Console.WriteLine("\n\""+nom+"\"");
+            Console.ReadKey();
+        }
     }
 }

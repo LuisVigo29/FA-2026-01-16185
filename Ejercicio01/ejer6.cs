@@ -8,5 +8,9 @@ namespace Ejercicio01
 {
     internal class ejer6
     {
+        static void Main(string[] args)
+        {
+
+        }
     }
 }
