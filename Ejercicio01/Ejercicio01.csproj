@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Ejercicio01.ejer3</StartupObject>
+    <StartupObject>Ejercicio01.ejer4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

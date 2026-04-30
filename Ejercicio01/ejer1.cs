@@ -10,7 +10,14 @@ namespace Ejercicio01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ingrese su edad: ");
+            int ed=int.Parse(Console.ReadLine());
 
+            if (ed < 18) Console.WriteLine("\nMenor de edad");
+            else if (ed <= 64) Console.WriteLine("\nMayor de edad");
+            else Console.WriteLine("\nAdulto mayor");
+
+            Console.ReadKey();
         }
     }
 }

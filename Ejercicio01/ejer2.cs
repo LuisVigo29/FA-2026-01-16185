@@ -10,10 +10,17 @@ namespace Ejercicio01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingrese nsu nombre");
-            string nom=Console.ReadLine();
-            Console.WriteLine("\n\""+nom+"\"");
-            Console.ReadKey();
+            Console.Write("Año: ");
+            int an=int.Parse(Console.ReadLine());
+
+            if ((an % 4 == 0 && an % 100 != 0) || an % 400 == 0)
+            Console.WriteLine("\nBisiesto");
+            Console.WriteLine("\nNo es bisiesto");
+
+            if (an % 2 == 0) Console.WriteLine("Par");
+            else Console.WriteLine("Impar");
+
+            Console.ReadKey();    
         }
     }
 }

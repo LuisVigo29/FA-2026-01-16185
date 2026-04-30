@@ -14,3 +14,11 @@ C:\Users\UPN\Videos\FA-2026-01-16185\Ejercicio01\obj\Debug\Ejercicio01.exe.confi
 C:\Users\UPN\Videos\FA-2026-01-16185\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Videos\FA-2026-01-16185\Ejercicio01\obj\Debug\Ejercicio01.exe
 C:\Users\UPN\Videos\FA-2026-01-16185\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\UPN\Documents\FA-2026-01-16185\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\UPN\Documents\FA-2026-01-16185\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\UPN\Documents\FA-2026-01-16185\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\UPN\Documents\FA-2026-01-16185\Ejercicio01\obj\Debug\Ejercicio01.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\FA-2026-01-16185\Ejercicio01\obj\Debug\Ejercicio01.exe.config
+C:\Users\UPN\Documents\FA-2026-01-16185\Ejercicio01\obj\Debug\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\FA-2026-01-16185\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\UPN\Documents\FA-2026-01-16185\Ejercicio01\obj\Debug\Ejercicio01.pdb

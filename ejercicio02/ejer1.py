@@ -1,7 +1,8 @@
-nombre=input("Ingrese su nombre:")
-carrera=input("Ingrese su carrera:")
-print("n///////////Impreso con +///////////")
-print(nombre+"Bienvenido al curso fundamentos de Algoritmos"+carrera)
+an=int(input("Año: "));
+           
+if ((an % 4 == 0 and an % 100 != 0) or an % 400 == 0):
+    print("\nBisiesto")
+else: print("\nNo es bisiesto")
 
-print("\n///////////Impreso con $///////////")
-print(f"{nombre},Bienvenidos al curso de fundamentos de algoritmos de la carrera {carrera}")
+if (an % 2 == 0): print("Par")
+else: print("Impar")
